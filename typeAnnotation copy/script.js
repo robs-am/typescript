@@ -1,3 +1,4 @@
+//@ts-check
 const produtos = [
   {
     nome: "O Senhor dos Anéis",
